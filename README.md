@@ -11,12 +11,14 @@ Make messages more positive and your recipient happy.
 
 ## App Screenshots
 <p float="left">
-<img src="./assets/images/screenshots/screen-image1.png" width="200">
-<img src="./assets/images/screenshots/screen-image2.png" width="200">
-<img src="./assets/images/screenshots/screen-image3.png" width="200">
+<img src="./assets/images/screenshots/screen-image1.png" width="250">
+<img src="./assets/images/screenshots/screen-image2.png" width="250">
+<img src="./assets/images/screenshots/screen-image3.png" width="250">
 </p>
-<img src="./assets/images/screenshots/screen-image4.png" width="200">
-<img src="./assets/images/screenshots/screen-image5.png" width="200">
+<p float="left">
+<img src="./assets/images/screenshots/screen-image4.png" width="250">
+<img src="./assets/images/screenshots/screen-image5.png" width="250">
+</p>
 
 # Getting Started
 
