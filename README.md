@@ -1,5 +1,5 @@
 
-# Senti Messages
+# <img src="./assets/images/logo/image2vector.png" width="50"> Senti Messages
 
 ## App Overview
 
@@ -73,23 +73,23 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
-## Step 3: Modifying your App
+## Help
 
-Now that you have successfully run the app, let's modify it.
+Any advise or help regarding issues, you can contact: harshvshah.22@gmail.com
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+## Authors
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
+Contributors names and contact info:
+* Harsh Shah [@_AIARXR](https://twitter.com/_AIARXR)
 
-## Congratulations! :tada:
+## License
 
-You've successfully run and modified your React Native App. :partying_face:
+This project is licensed under the MIT License.
 
-### Now what?
+## Version History! :tada:
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+* 0.1
+    * Initial Release
 
 # Troubleshooting
 
@@ -104,3 +104,7 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+## Acknowledgments
+
+* Inspiration: my pair-programming project with Arvin Josol
