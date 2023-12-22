@@ -10,8 +10,19 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "18.2.0",
-    "react-native": "0.73.0"
+    "@rneui/themed": "^4.0.0-rc.8",
+    "@shopify/react-native-skia": "^0.1.229",
+    "axios": "^1.6.2",
+    "d3": "^7.8.5",
+    "install": "^0.13.0",
+    "npm": "^10.2.5",
+    "react": "^18.2.0",
+    "react-native": "^0.73.0",
+    "react-native-reanimated": "^3.6.1",
+    "react-native-splash-screen": "^3.3.0",
+    "react-native-svg": "^14.1.0",
+    "react-native-text-size": "^4.0.0-rc.1",
+    "react-router-native": "^6.21.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
