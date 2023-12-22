@@ -20,6 +20,10 @@ Make messages more positive and your recipient happy.
 <img src="./assets/images/screenshots/screen-image5.png" width="250">
 </p>
 
+## Demo
+[![Watch the video](./assets/images/logo/image2vector.png) (https://vimeo.com/897224471)
+
+
 # Getting Started
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
