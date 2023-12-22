@@ -3,6 +3,8 @@
 
 ## App Overview
 
+### Description
+
 This App helps by identifying the positive or negative impact of the content you want to present. Any message, caption, email, memo can be analysed using this Senti App.
 
 Senti uses Google Cloud Natural Language's Sentiment analysis method. The score of a message's sentiment indicates the overall emotion. The magnitude of a message's sentiment indicates how much emotional content is present within, and this value is often proportional to the length of the content.
@@ -21,7 +23,7 @@ Make messages more positive and your recipient happy.
 </p>
 
 ## Demo
-[![Watch the video](./assets/images/logo/image2vector.png)] (https://vimeo.com/897224471)
+Watch this video to get complete demo of the functionality (https://vimeo.com/897224471)
 
 
 # Getting Started
@@ -76,6 +78,15 @@ yarn ios
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+
+## Back-End Start-Up
+* You will need to also start the server of repo: https://github.com/Hvshah1991/SentimentAnalysis-API
+
+* Install nodemon and in your terminal: npx nodemon index.js - this will start the server
+
+* Also, don't forget to set the .env file per your convenience. Choose the port of your preference.
+
+* The back-end server should be running for it to communicate with Google's NLP API.
 
 ## Help
 
