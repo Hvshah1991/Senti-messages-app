@@ -10,6 +10,11 @@ Senti uses Google Cloud Natural Language's Sentiment analysis method. The score 
 Make messages more positive and your recipient happy.
 
 ## App Screenshots
+<img src="./assets/images/screenshots/screen-image1.png" width="200">
+<img src="./assets/images/screenshots/screen-image2.png" width="200">
+<img src="./assets/images/screenshots/screen-image3.png" width="200">
+<img src="./assets/images/screenshots/screen-image4.png" width="200">
+<img src="./assets/images/screenshots/screen-image5.png" width="200">
 ![Home Screen](./assets/images/screenshots/screen-image1.png)
 ![About Screen 1](./assets/images/screenshots/screen-image2.png)
 ![About Screen 2](./assets/images/screenshots/screen-image3.png)
