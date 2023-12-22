@@ -21,7 +21,7 @@ Make messages more positive and your recipient happy.
 </p>
 
 ## Demo
-[![Watch the video](./assets/images/logo/image2vector.png) (https://vimeo.com/897224471)
+[![Watch the video](./assets/images/logo/image2vector.png)] (https://vimeo.com/897224471)
 
 
 # Getting Started
