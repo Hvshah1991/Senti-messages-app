@@ -1,8 +1,31 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+# Senti Messages
+
+## App Overview
+
+This App helps by identifying the positive or negative impact of the content you want to present. Any message, caption, email, memo can be analysed using this Senti App.
+
+Senti uses Google Cloud Natural Language's Sentiment analysis method. The score of a message's sentiment indicates the overall emotion. The magnitude of a message's sentiment indicates how much emotional content is present within, and this value is often proportional to the length of the content.
+
+Make messages more positive and your recipient happy.
+
+## App Screenshots
+![Home Screen](./assets/images/screenshots/screen-image1.png)
+![About Screen 1](./assets/images/screenshots/screen-image2.png)
+![About Screen 2](./assets/images/screenshots/screen-image3.png)
+![Contact Screen 1](./assets/images/screenshots/screen-image4.png)
+![Contact Screen 2](./assets/images/screenshots/screen-image5.png)
 
 # Getting Started
 
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+
+## Dependencies
+* npm, react, react-native, react-router-native, react-native-reanimated.
+* react-native-splash-screen, react-native-svg, react-native-text-size.
+* d3, axios, @shopify/react-native-skia, @rneui/themed.
 
 ## Step 1: Start the Metro Server
 
